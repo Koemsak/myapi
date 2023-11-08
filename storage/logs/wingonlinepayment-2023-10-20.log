@@ -1,0 +1,9 @@
+[2023-10-20 11:15:03] info: 20231020041512177177902243e37b712081008e ------------------------ START REQEUST AUTHORIZATION ------------------------
+[2023-10-20 11:15:03] info: 20231020041512177177902243e37b712081008e Request data from partner: {"username":"online.vireakbe","rest_api_key":"bfab186d261cae3f5340b9ccf75fc54fcb2f1af40666e9f7b7bb5897154f2696","payload":"tesing","hash":"123"}
+[2023-10-20 11:15:03] info: 20231020041512177177902243e37b712081008e Request check account url: https://uat-gateway.wingmoney.com/payment-gateway/v1/gateway/check-credential
+[2023-10-20 11:15:03] info: 20231020041512177177902243e37b712081008e Request check account header: {"Content-Type":"application/json","Accept":"application/json","cache-control":"no-cache"}
+[2023-10-20 11:15:03] info: 20231020041512177177902243e37b712081008e Request check account body: {"user_name":"online.vireakbe","rest_api_key":"bfab186d261cae3f5340b9ccf75fc54fcb2f1af40666e9f7b7bb5897154f2696","service_type":"BILLPAYON"}
+[2023-10-20 11:15:03] info: 20231020041512177177902243e37b712081008e Response from check account info: undefined
+[2023-10-20 11:15:03] info: 20231020041512177177902243e37b712081008e Response check account info: {"code":"SUCCESS","message":"Successfully.","data":{"user_name":"online.vireakbe","rest_api_key":"bfab186d261cae3f5340b9ccf75fc54fcb2f1af40666e9f7b7bb5897154f2696","service_type":null,"password":"914bade01fd32493a0f2efc583e1a5f6","merchant_name":"Vireak Buntham","currency":"USD","biller_code":"00305","callback_url":null,"package_id":"qacl.udaya-tech.com"}}
+[2023-10-20 11:15:36] info: Server is runing.....
+[2023-10-20 11:15:36] info: Connected to database

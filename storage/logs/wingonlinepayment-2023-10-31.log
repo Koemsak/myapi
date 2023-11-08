@@ -1,0 +1,8 @@
+[2023-10-31 11:22:08] info: 2023103104222519019074881e55342b9d340750 ------------------------ START REQEUST AUTHORIZATION ------------------------
+[2023-10-31 11:22:08] info: 2023103104222519019074881e55342b9d340750 Request data from partner: {"username":"online.vireakbe","rest_api_key":"bfab186d261cae3f5340b9ccf75fc54fcb2f1af40666e9f7b7bb5897154f2696","payload":"tesing","hash":"123"}
+[2023-10-31 11:22:08] info: 2023103104222519019074881e55342b9d340750 Request check account url: https://uat-gateway.wingmoney.com/payment-gateway/v1/gateway/check-credential
+[2023-10-31 11:22:08] info: 2023103104222519019074881e55342b9d340750 Request check account header: {"Content-Type":"application/json"}
+[2023-10-31 11:22:08] info: 2023103104222519019074881e55342b9d340750 Request check account body: {"user_name":"online.vireakbe","rest_api_key":"bfab186d261cae3f5340b9ccf75fc54fcb2f1af40666e9f7b7bb5897154f2696","service_type":"BILLPAYON"}
+[2023-10-31 11:22:08] info: 2023103104222519019074881e55342b9d340750 Response error from online payment controller v1 to partner: {"status":500,"message":"connect ETIMEDOUT 10.120.22.10:443","data":null}
+[2023-10-31 11:35:38] info: Server is runing.....
+[2023-10-31 11:35:38] info: Connected to database

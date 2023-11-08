@@ -1,0 +1,8 @@
+[2023-10-18 10:13:09] info: 202310180313198318313b6c8979e7fbcdd2b355 ------------------------ START REQEUST AUTHORIZATION ------------------------
+[2023-10-18 10:13:09] info: 202310180313198318313b6c8979e7fbcdd2b355 Request data from partner: {"username":"online.vireakbe","rest_api_key":"bfab186d261cae3f5340b9ccf75fc54fcb2f1af40666e9f7b7bb5897154f2696","payload":"tesing","hash":"123"}
+[2023-10-18 10:13:09] info: 202310180313198318313b6c8979e7fbcdd2b355 Request check account url: https://uat-gateway.wingmoney.com/payment-gateway/v1/gateway/check-credential
+[2023-10-18 10:13:09] info: 202310180313198318313b6c8979e7fbcdd2b355 Request check account header: {"Content-Type":"application/json","Accept":"application/json","cache-control":"no-cache"}
+[2023-10-18 10:13:09] info: 202310180313198318313b6c8979e7fbcdd2b355 Request check account body: {"user_name":"online.vireakbe","rest_api_key":"bfab186d261cae3f5340b9ccf75fc54fcb2f1af40666e9f7b7bb5897154f2696","service_type":"BILLPAYON"}
+[2023-10-18 10:13:09] info: 202310180313198318313b6c8979e7fbcdd2b355 Request url: https://uat-gateway.wingmoney.com/payment-gateway/v1/gateway/check-credential
+[2023-10-18 10:13:09] info: 202310180313198318313b6c8979e7fbcdd2b355 Request data: {"user_name":"online.vireakbe","rest_api_key":"bfab186d261cae3f5340b9ccf75fc54fcb2f1af40666e9f7b7bb5897154f2696","service_type":"BILLPAYON"}
+[2023-10-18 10:13:09] info: 202310180313198318313b6c8979e7fbcdd2b355 Request header: {"Content-Type":"application/json","Accept":"application/json","cache-control":"no-cache"}
